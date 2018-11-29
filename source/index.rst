@@ -10,7 +10,7 @@ Welcome to Final Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   movies/index
+   genres/index
 
 
 
