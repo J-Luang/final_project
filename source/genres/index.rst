@@ -5,4 +5,4 @@
    action/index
    animated/index
    horror/index
-   sci-Fi/index
+   sci-fi/index
