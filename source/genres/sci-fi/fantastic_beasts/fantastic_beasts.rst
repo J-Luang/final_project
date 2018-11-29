@@ -5,7 +5,6 @@ This is the review for the movie, Fantastic Beasts
 and Where to Find Them.
 
 .. image:: fantastic_beasts.jpg
-    :width: 50%
+    :width: 25%
+.. no copyright infringement is intended with iTunes/Apple.
 
-.. figure:: fantastic_beasts.jpg
-    :width: 50%
