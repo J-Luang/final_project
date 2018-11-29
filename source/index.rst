@@ -10,6 +10,8 @@ Welcome to Final Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   movies/index
+
 
 
 Indices and tables
