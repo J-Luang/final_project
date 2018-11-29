@@ -1,9 +1,9 @@
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Horror Movies:
 
-   movie1/movie1
-   movie2/movie1
-   movie3/movie1
-   movie4/movie1
+   annabelle_creation/annabelle
+   grave_encounters/grave
+   the_nun/nun
+   veronica/veronica
    
