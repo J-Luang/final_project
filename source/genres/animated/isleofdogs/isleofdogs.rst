@@ -14,6 +14,16 @@ Synopsis
 
 Cast
 ----
+=================== ================
+Actor               Role       
+=================== ================
+Bryan Cranston      Cheif
+Koyu Rankin         Atari
+Edward Norton       Rex
+Liev Schreiber      Spots
+Bill Murray         Boss
+Scarlett Johansson  Nutmeg
+=================== ================
 
 Review
 -----
