@@ -39,7 +39,7 @@ Jemaine Clement     Tamatoa
 =================== ================
 
 Review
------
+------
 *Moana* was joyful to watch. The animation of the waves was magical and the music 
 was charming to sing along to. The setting of the movie was inviting with the blue 
 skies and island greenery, surely making viewers want to step foot into. The 

@@ -37,5 +37,10 @@ Craig Ferguson            Gobber
 ========================= ================
 
 Review
------
-This sequel is a significant improvement from the first movie. Not only has the animation become more clear, but the story is as thrilling as before. The producers did a good job aging the characters appropriately and creating a story that connected with the last one. It makes us yearn for a third movie just as good.
+------
+This sequel is a significant improvement from the first movie. 
+Not only has the animation become more clear, but the story 
+is as thrilling as before. The producers did a good job aging 
+the characters appropriately and creating a story that connected 
+with the last one. It makes us yearn for a third movie just as good
+as the second.

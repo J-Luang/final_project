@@ -43,4 +43,5 @@ The best strength about *Isle of Dogs* is its phenomenal animation.
 The style of stop-motion is different from what we have seen before. 
 The world that is portrayed is interesting and the story elements take on 
 a unique role from standard movies. One criticism of the film is that the 
-storyline was predictive. It could have been improved by keeping parts more secret.  
+storyline was fairly predictive. It could have been improved by keeping parts more
+on the down low.  
