@@ -1,6 +1,9 @@
+Animated
+========
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Animated Movies:
 
    yourname/yourname
    isleofdogs/isleofdogs

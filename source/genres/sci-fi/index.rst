@@ -1,6 +1,9 @@
+Sci-Fi
+======
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sci-Fi Movies:
 
    fantastic_beasts/fantastic_beasts
    infinity_war/infinity_war

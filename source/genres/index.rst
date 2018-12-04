@@ -1,7 +1,20 @@
+Genres
+======
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Animated:
 
    animated/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Horror:
+
    horror/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sci-Fi:
+
    sci-fi/index

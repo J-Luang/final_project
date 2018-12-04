@@ -1,3 +1,6 @@
+Horror
+======
+
 .. toctree::
    :maxdepth: 2
    :caption: Horror Movies:
