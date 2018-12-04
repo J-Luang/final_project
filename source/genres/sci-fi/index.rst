@@ -1,9 +1,12 @@
+Sci-Fi
+======
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sci-Fi Movies:
 
-   movie1/movie1
-   movie2/movie1
-   movie3/movie1
-   movie4/movie1
-   
+   fantastic_beasts/fantastic_beasts
+   infinity_war/infinity_war
+   ready_player_one/ready_player_one
+   the_last_jedi/the_last_jedi
+  

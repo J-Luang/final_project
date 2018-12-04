@@ -1,9 +1,12 @@
+Animated
+========
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Animated Movies:
 
-   movie1/movie1
-   movie2/movie1
-   movie3/movie1
-   movie4/movie1
+   yourname/yourname
+   isleofdogs/isleofdogs
+   moana/moana
+   httyd2/httyd2
    
