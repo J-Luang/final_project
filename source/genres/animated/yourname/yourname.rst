@@ -3,6 +3,8 @@ Your Name
 
 9/10 Cravens
 
+.. image:: yourname.jpg
+
 Synopsis
 --------
 *Your Name* is a story about two high school students, 
@@ -16,12 +18,13 @@ face a strange force that keeps them apart.
 Will they be able to overcome this obstacle and finally 
 meet as themselves? Or will they be apart forever?   
 
-
 * Rating: PG
 * Director: Makoto Shinkai 
 * In Theaters: April 7, 2017
 * Runtime: 1h 52m
 * Studio: CoMix Wave Films
+
+Watch the trailer `here <https://youtu.be/o4-URMnBOPU>`_
 
 Cast
 ----
@@ -37,3 +40,4 @@ Etsuko Ichihara     Hitoha Miyamizu
 
 Review
 -----
+*Your Name* is a beautifully animated film. The exceptional soundtrack adds to the viewer's expeirence as they learn what will happen to Taki and Mitsuha. You are immediately captivated by the story and are invested into the character's lives. The plot twist was surprising and emotional. The ending was perfectly executed and satisfying. 
