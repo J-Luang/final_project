@@ -8,10 +8,22 @@ The Last Jedi.
     :width: 25%
 .. no copyright infringement is intended with Wikipedia.
 
-Synopsis
---------
+Movie Info
+----------
 
 Following the events of The Force Awakens, Luke Skywalker's location is known and found by a girl named Rey, who proves to be strong in the force. Rey is determined to find out the truth about herself and to unveil the power she has deep within herself. Asking for the guidance of Luke Skywalker, Rey finds herself training to learn the ways of the force with none other than Luke himself. Meanwhile, Leia Organa and the Resistance are fighting for their lives and the lives of the galaxy against the villainous Kylo Ren and Supreme Leader Snoke. 
+
+**Rating:**    PG-13
+
+**Genre:**    Sci-Fi, Action, Drama
+
+**Directed by:**    Rian Johnson
+
+**In theaters:**    Dec 15, 2017
+
+**Runtime:**    152 minutes
+
+**Studio:**    Walt Disney Pictures
 
 Review
 ------
