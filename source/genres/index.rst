@@ -3,3 +3,5 @@
    :caption: Contents:
 
    animated/index
+   horror/index
+   sci-fi/index
