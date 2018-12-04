@@ -5,6 +5,16 @@ The Nun
 
 Movie info for The Nun
 ----------------------
+====================== ===============
+Cast                   Character
+====================== ===============
+Demian Bichir          Father Burke
+Taissa Farmiga         Sister Irene
+Jonas Bloquet          Frenchie
+Bonnie Aarons          The Nun
+Ingrid Bisu            Sister Oana
+====================== ===============
+More cast members `here <>
 
 Movie Summary
 -------------

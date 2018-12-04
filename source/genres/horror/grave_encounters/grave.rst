@@ -5,6 +5,16 @@ Grave Encounters
 
 Movie info for Grave Encounters
 -------------------------------
+====================== ===============
+Cast                   Character
+====================== ===============
+Ben Wilkinson          Jerry Hartfield
+Sean Rogerson          Lance Preston
+Ashleigh Gryzko        Sasha Parker
+Merwin Mondesir        T.C. Gibson
+Juan Riedinger         Matt White
+====================== ===============
+More cast members `here <>
 
 Movie Summary
 -------------

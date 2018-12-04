@@ -5,6 +5,16 @@ Veronica
 
 Movie info for Veronica
 -----------------------
+====================== ===============
+Cast                   Character
+====================== ===============
+Sandra Escacena        Veronica
+Bruna Gonzalez         Lucia
+Claudia Placer         Irene
+Ivan Chavero           Antonito
+Ana Torrent            Ana
+====================== ===============
+More cast members `here <>
 
 Movie Summary
 -------------
