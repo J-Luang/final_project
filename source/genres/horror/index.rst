@@ -1,5 +1,5 @@
 Horror
-======
+========
 
 .. toctree::
    :maxdepth: 2
