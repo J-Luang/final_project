@@ -53,4 +53,3 @@ you see the spirits manifested in their forms that offer disturbing human like
 creatures with something missing. The spirits also offer very little as the 
 characters run away, hide and never see the spirit again. This was a movie that
 like its genre of found film, should be left behind.
-
