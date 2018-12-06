@@ -5,6 +5,13 @@ The Nun
 
 Movie info for The Nun
 ----------------------
+
+* Rating:    R
+* Genre:  Horror
+* Directed By:    Corin Hardy
+* Runtime:    96 minutes
+* Studio: Warner Bros. Pictures
+
 Full cast `here <https://en.wikipedia.org/wiki/The_Nun_(2018_film)#Cast>`_.
 
 Movie Summary

@@ -5,6 +5,13 @@ Annabelle Creation
 
 Movie info for Annabelle: Creation
 ----------------------------------
+
+* Rating: R
+* Genre: Drama, Horror 
+* Directed By: David F. Sandberg 
+* Runtime: 109 minutes 
+* Studio: New Line Cinema 
+
 ====================== ===============
 Cast                   Character
 ====================== ===============
@@ -13,6 +20,7 @@ Samara Lee             Bee
 Miranda Otto           Esther Mullins
 Talitha Eliana Bateman Janice
 ====================== ===============
+
 Full cast `here <https://en.wikipedia.org/wiki/Annabelle:_Creation#Cast>`_.
 
 Movie Summary

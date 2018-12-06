@@ -5,6 +5,13 @@ Veronica
 
 Movie info for Veronica
 -----------------------
+
+* Rating:    NR
+* Genre:    Drama, Mystery & Suspense
+* Directed By:    Carlos Algara, Alejandro Martínez Beltrán
+* Runtime:    81 minutes
+* Studio: Producciones A Ciegas
+
 Full cast `here <https://en.wikipedia.org/wiki/Ver%C3%B3nica_(2017_Spanish_film)#Cast>`_.
 
 Movie Summary

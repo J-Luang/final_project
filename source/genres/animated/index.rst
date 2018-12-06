@@ -5,7 +5,7 @@ Animated
    :maxdepth: 2
    :caption: Animated Movies:
 
-   yourname/yourname
+   your_name/yourname
    isleofdogs/isleofdogs
    moana/moana
    httyd2/httyd2

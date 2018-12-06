@@ -5,6 +5,13 @@ Grave Encounters
 
 Movie info for Grave Encounters
 -------------------------------
+
+* Rating:    NR
+* Genre:  Horror
+* Directed By:    The Vicious Brothers
+* Runtime:    92 minutes
+* Studio: Independent Pictures
+
 Full cast `here <https://en.wikipedia.org/wiki/Grave_Encounters#Cast>`_.
 
 Movie Summary
