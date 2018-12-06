@@ -13,3 +13,5 @@ Biggest Issue
 
 The line in which Garner's character tells her daughter she has "peppermint in her blood" (Which is where the title for the movie comes from) WAS CUT FROM THE MOVIE ENTIRELY. Seriously, While this line is heavily featured in the trailers it is never in the movie which really confused me as a viewer. Why would you name the movie after a line that doesn't exist in the final project?!?!
 
+*Runtime: 1h 43m
+*Rating: R
