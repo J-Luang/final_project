@@ -4,9 +4,10 @@ Annabelle Creation
 .. figure:: annabelle.jfif
 
    No copyright infringement intended, original picture from microsoft.
-.. image from:
-.. [https://www.microsoft.com/en-au/p/annabelle-creation/8d6kgwxd8dnc?activetab=
-.. pivot%3aoverviewtab]_
+.. 
+   image from:
+   [https://www.microsoft.com/en-au/p/annabelle-creation/8d6kgwxd8dnc?activetab=
+   pivot%3aoverviewtab]_
 
 Movie info for Annabelle: Creation
 ----------------------------------
@@ -52,4 +53,3 @@ obvious when a scare will come up. Even the suspenseful scenes with its
 psychological horror leaves little to be scared about. This sadly was a movie 
 that was OK and definitely not the best or to be remembered but it was also not
 the worse.
-
