@@ -21,7 +21,6 @@ Miranda Otto           Esther Mullins
 Talitha Eliana Bateman Janice
 Lulu Wilson            Linda
 ====================== ===============
-More cast members `here <>
 
 Full cast `here <https://en.wikipedia.org/wiki/Annabelle:_Creation#Cast>`_.
 
