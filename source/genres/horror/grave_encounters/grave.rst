@@ -5,6 +5,7 @@ Grave Encounters
 
 Movie info for Grave Encounters
 -------------------------------
+Full cast `here <https://en.wikipedia.org/wiki/Grave_Encounters#Cast>`_.
 
 Movie Summary
 -------------
@@ -22,6 +23,15 @@ known as the lobotomy.
 
 Review for Grave Encounters
 ---------------------------
+3/10 Cravens
+Grave Encounters relies on the psychological horror side in the found film genre
+that has been popular in the past, but died out for a reason. Even the psychological
+horror aspect of this movie cannot save it as the scenes go by quickly and at
+always leads up to a jump scare. Having the characters run through the same 
+halls, yelling at each other while they go mad offers little to the experience
+of the movie. The only disturbing part of the movie is when you see the spirits
+manifested in their forms that offer disturbing human like creatures with
+something missing. The spirits also offer very little as the characters run away,
+hide and never see the spirit again. This was a movie that like its genre of found
+film, should be left behind.
 
-Photos for Grave Encounters
----------------------------
