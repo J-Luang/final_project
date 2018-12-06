@@ -2,9 +2,27 @@ Veronica
 ========
 
 .. image:: veronica.jpg
+.. image from: https://en.wikipedia.org/wiki/Ver%C3%B3nica_(2017_Spanish_film)
 
 Movie info for Veronica
 -----------------------
+* Rating:    NR
+* Genre:    Drama, Mystery & Suspense
+* Directed By:    Carlos Algara, Alejandro Martínez Beltrán
+* Runtime:    81 minutes
+* Studio: Producciones A Ciegas
+
+====================== ===============
+Cast                   Character
+====================== ===============
+Sandra Escacena        Veronica
+Bruna Gonzalez         Lucia
+Claudia Placer         Irene
+Ivan Chavero           Antonito
+Ana Torrent            Ana
+====================== ===============
+
+Full cast `here <https://en.wikipedia.org/wiki/Ver%C3%B3nica_(2017_Spanish_film)#Cast>`_.
 
 Movie Summary
 -------------
@@ -23,6 +41,17 @@ contact with the ghost all while suffering from hallucinations?
 
 Review for Veronica
 -------------------
-
-Photos for Veronica
--------------------
+6/10 Cravens
+This movie was all psychological horror with a spirit terrorizing Veronica and 
+her family. The execution of how the spirit slowly worked on deteriorating 
+Veronica mental state was what the majority of the movie was about and it worked.
+The movie itself was not as scary as some films, but it was suspenseful of what 
+would happen as the spirit attacked her family and terrorized her. It leaves you
+wondering, what is the spirit, what does the eclipse symbolize and a couple more.
+The movie does not leave you disappointed at the characters in the film all seem
+to be shook from the events that happened. Having the spirit be an unknown entity
+throughout the film does add some mystery to it because it's an unknown spirit,
+attached to a girl and eventually killing her. All of that stemmed from a Ouija 
+game where she wanted to speak with her father. This movie does leaves questions,
+but is done in a good way, because it leaves the viewer wondering what happened,
+just like the real life case in which this movie is based on.
