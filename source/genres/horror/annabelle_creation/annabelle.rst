@@ -4,9 +4,10 @@ Annabelle Creation
 .. figure:: annabelle.jfif
 
    No copyright infringement intended, original picture from microsoft.
-.. image from:
-.. [https://www.microsoft.com/en-au/p/annabelle-creation/8d6kgwxd8dnc?activetab=
-.. pivot%3aoverviewtab]_
+.. 
+   image from:
+   [https://www.microsoft.com/en-au/p/annabelle-creation/8d6kgwxd8dnc?activetab=
+   pivot%3aoverviewtab]_
 
 Movie info for Annabelle: Creation
 ----------------------------------
