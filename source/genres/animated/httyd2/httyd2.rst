@@ -43,7 +43,7 @@ Review
 ------
 
 This sequel is a significant improvement from the first movie. 
-Not only has the animation become more crisp, but the story 
+Not only has the animation become crisper, but the story 
 is more thrilling than before. The hints of humor add extra 
 charm to the overall atmosphere of the film. The producers did 
 a splendid job aging the characters appropriately and 

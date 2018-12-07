@@ -44,9 +44,11 @@ Jemaine Clement     Tamatoa
 Review
 ------
 
-*Moana* was joyful to watch. The animation of the waves was magical and the music 
-was charming to sing along to. The setting of the movie was inviting with the blue 
-skies and island greenery, surely making viewers want to step foot onto the sand. The 
-personalities of the characters, from Moana to the hilarious chicken, made the movie 
-enjoyable and funny. If one thing could be improved, the story could have been delved 
-into more. The full backstory of Moana's ancestors would have been interesting to witness.   
+*Moana* was joyful to watch. The animation of the waves was magical 
+and the music was charming to sing along to. The setting of the movie 
+was inviting with the blue skies and island greenery, surely making 
+viewers want to step foot onto the sand. The personalities of the 
+characters, from Moana to the hilarious chicken, made the movie 
+enjoyable and funny. If one thing could be improved, the story 
+could have been delved into more. The full backstory of Moana's 
+ancestors would have been interesting to witness.   

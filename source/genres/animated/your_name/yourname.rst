@@ -46,6 +46,6 @@ Review
 
 *Your Name* is a beautifully animated film. The exceptional soundtrack adds 
 to the viewer's experience as they learn what will happen to Taki and Mitsuha. 
-You are immediately captivated by the story and are invested into the character's 
+You are immediately captivated by the story and are invested in the character's 
 lives. The plot twist was surprising and emotional. The ending was perfectly 
 executed and satisfying. Viewers will be left wanting a sequel. 
