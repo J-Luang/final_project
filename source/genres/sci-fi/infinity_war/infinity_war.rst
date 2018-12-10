@@ -36,6 +36,30 @@ for life or death against the great and evil Thanos. In Thanos' quest to gather
 all 6 infinity stones, the Avengers must try to stop the evil Thanos and his 
 plan to wipe out half of life. 
 
+Major Cast Members and Roles
+----------------------------
+
+* Robert Downey Jr. as *Tony Stark / Iron Man*
+* Chris Hemsworth as *Thor*
+* Mark Ruffalo as *Bruce Banner / Hulk*
+* Chris Evans as *Steve Rodgers / Captain America*
+* Scarlett Johansson as *Natasha Romanoff / Black Widow*
+* Don Cheadle as *James Rhodes / War Machine*
+* Benedict Cumberbatch as *Doctor Strange*
+* Tom Holland as *Peter Parker / Spider-Man*
+* Chadwick Boseman as *T'Challa / Black Panther*
+* Zoe Saldana as *Gamora*
+* Tom Hiddleston as *Loki*
+* Paul Bettany as *Vision*
+* Elizabeth Olsen as *Wanda Maximoff / Scarlet Witch*
+* Anthony Mackie as *Sam Wilson / Falcon*
+* Sebastian Stan as *Bucky Barnes / Winter Soldier*
+* Dave Bautista as *Drax*
+* Vin Diesel as *Groot* (*voice*)
+* Bradley Cooper as *Rocket* (*voice*)
+* Josh Brolin as *Thanos*
+* Chris Pratt as *Peter Quill / Star-Lord*
+
 Review
 ------
 
@@ -48,3 +72,5 @@ feeling to the audience. Infinity War adds something new to movies that has
 captivated the audience and will keep them on their toes. Avengers: Infinity War 
 therefore receives a 9 out of 10 Cravens.
 
+*No copyright infringement is intended with Marvel Entertainment (video link) 
+and IMDb (image).*
