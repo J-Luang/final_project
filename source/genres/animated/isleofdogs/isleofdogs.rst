@@ -4,7 +4,8 @@ Isle of Dogs
 ``6/10 Cravens``
 
 .. image:: isleofdogs.jpg
-.. image from: https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_UX182_CR0,0,182,268_AL_.jpg
+.. image from: https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBn
+.. XkFtZTgwODcyMzE0NDM@._V1_UX182_CR0,0,182,268_AL_.jpg
 
 Synopsis
 --------

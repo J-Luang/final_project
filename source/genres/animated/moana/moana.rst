@@ -4,7 +4,8 @@ Moana
 ``7/10 Cravens``
 
 .. image:: moana.jpg
-.. image from: https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Moana_Teaser_Poster.jpg/220px-Moana_Teaser_Poster.jpg
+.. image from: https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Moana_Tease
+.. r_Poster.jpg/220px-Moana_Teaser_Poster.jpg
 
 Synopsis
 --------
