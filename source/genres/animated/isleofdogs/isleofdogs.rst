@@ -33,7 +33,7 @@ Cast
 =================== ================
 Actor               Role       
 =================== ================
-Bryan Cranston      Cheif
+Bryan Cranston      Chief
 Koyu Rankin         Atari
 Edward Norton       Rex
 Liev Schreiber      Spots
