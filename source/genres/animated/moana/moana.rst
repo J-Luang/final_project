@@ -36,7 +36,7 @@ Actor               Role
 =================== ================
 Auli'i Cravalho     Moana
 Dwayne Johnson      Maui
-Temuera Morrison    Cheif Tui
+Temuera Morrison    Chief Tui
 Rachel House        Gramma Tala
 Nicole Scherzinger  Sina
 Jemaine Clement     Tamatoa
