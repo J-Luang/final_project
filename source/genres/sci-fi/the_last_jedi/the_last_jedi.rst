@@ -38,6 +38,19 @@ himself. Meanwhile, Leia Organa and the Resistance are fighting for their lives
 and the lives of the galaxy against the villainous Kylo Ren and Supreme Leader 
 Snoke. 
 
+
+Major Cast Members and Roles
+----------------------------
+
+* Mark Hamill as *Luke Skywalker*
+* Carrie Fisher as *Leia Organa*
+* Adam Driver as *Kylo Ren*
+* Daisey Ridley as *Rey*
+* John Boyega as *Finn*
+* Oscar Isaac as *Poe Dameron*
+* Andy Serkis as *Snoke*
+* Lupita Nyong'o as *Maz Kanata*
+
 Review
 ------
 
@@ -52,3 +65,10 @@ characters, Johnson also felt the need to implement new characters into the
 universe who seemed important but didn't receive any background or character 
 development whatsoever. This movie is given a 5/10 simply because of the vast 
 amount of opinions that can be developed by audiences. 
+
+
+
+
+
+*No copyright infringement is intended with Star Wars (video link) and Wikipedia
+(image).*

@@ -37,6 +37,16 @@ some of his magic beasts into the No-Maj world of New York. Can Newt capture all
 of his creatures while helping New York find an answer to their own magical 
 problems?
 
+Major Cast Members and Roles
+----------------------------
+
+* Eddie Redmayne as *Newt Scamander*
+* Colin Farrell as *Graves*
+* Katherine Waterston as *Tina*
+* Dan Folger as *Jacob Kowalski*
+* Ezra Miller as *Credence Barebone*
+* Johnny Depp as *Grindelwald*
+
 Review
 ------
 
@@ -45,5 +55,11 @@ Review
 Fantastic Beasts is a creative movie playing on the idea of the Harry Potter 
 series. This movie brings a new magical twist to the Wizarding World we all know 
 and love, but lacks the development of individual characters throughout the 
-movie. Overall, this movie is just above average finding tough criticism from 
-the success of the Harry Potter series. 
+movie. J.K. Rowling creates a beautiful new story within the Wizarding World but 
+is missing just a few things within the movie. Knowing there will be 4 total 
+movies can excite some and cause dread for others with this series. Overall, 
+this movie is just above average finding tough criticism from the success of the 
+Harry Potter series. 
+
+*No copyright infringement is intended with Warner Bros. Pictures (video link) 
+and iTunes/Apple (image).*
