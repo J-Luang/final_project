@@ -4,7 +4,8 @@ How to Train Your Dragon 2
 ``8/10 Cravens``
 
 .. image:: httyd2.jpg
-.. image from: https://resizing.flixster.com/xxEA1xPk_gz6EXv87CO9jQH2ihw=/206x305/v1.bTsxMTE4MTQyNjtqOzE3OTQ5OzEyMDA7ODAwOzEyMDA
+.. image from: https://resizing.flixster.com/xxEA1xPk_gz6EXv87CO9jQH2ihw=/206x3
+.. 05/v1.bTsxMTE4MTQyNjtqOzE3OTQ5OzEyMDA7ODAwOzEyMDA
 
 Synopsis
 --------

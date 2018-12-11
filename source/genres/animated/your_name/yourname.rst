@@ -4,7 +4,9 @@ Your Name
 ``9/10 Cravens``
 
 .. image:: yourname.jpg
-.. image from: https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX182_CR0,0,182,268_AL_.jpg
+.. image from: https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00Njhk
+.. LWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX182_CR0,0,
+.. 182,268_AL_.jpg
 
 Synopsis
 --------
