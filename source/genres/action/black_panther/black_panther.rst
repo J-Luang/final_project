@@ -4,7 +4,7 @@ Black Panther
 10/10 Cravens
 ~~~~~~~~~~~~~~~~~
 
-Black Panther is one of Marvel's most fully realized films. Wonderfully fleshed 
+GO SEE THIS MOVIE! Black Panther is one of Marvel's most fully realized films. Wonderfully fleshed 
 out characters, beautiful cinematography, and a well thought out plot help expand
  the Marvel Cinematic Universe. Killmonger is one of Marvel's best villians to 
  date, and the commentary on today's world is done in a powerful way. A lot is 
@@ -19,7 +19,7 @@ which was impactful to the Marvel Universe. Everything from the buildings,
 clothing, technology, and lifestyles were fully developed to create this realistic
  world. This movie also helps to increase the standards of diversity in Hollywood 
  movies. This movie is important to all of the youth of color who now have heros 
- that look like them to look up to.
+ that look like them to look up to. 
 
 * Runtime: 2h 15m
 * Rating: PG-13
